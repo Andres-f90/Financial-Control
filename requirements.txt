@@ -1,0 +1,41 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: win-64
+blas=1.0=mkl
+ca-certificates=2021.10.26=haa95532_2
+certifi=2020.6.20=pyhd3eb1b0_3
+console_shortcut=0.1.1=4
+cycler=0.10.0=py35hcc71164_0
+freetype=2.10.4=hd328e21_0
+icc_rt=2019.0.0=h0cc432a_1
+icu=58.2=ha925a31_3
+intel-openmp=2021.4.0=haa95532_3556
+jpeg=9d=h2bbff1b_0
+kiwisolver=1.0.1=py35h6538335_0
+libpng=1.6.37=h2a8f88b_0
+matplotlib=3.0.0=py35hd159220_0
+mkl=2018.0.3=1
+mkl_fft=1.0.6=py35hdbbee80_0
+mkl_random=1.0.1=py35h77b88f5_1
+numpy=1.15.2=py35ha559c80_0
+numpy-base=1.15.2=py35h8128ebf_0
+openssl=1.1.1l=h2bbff1b_0
+pip=10.0.1=py35_0
+pyparsing=2.4.7=pyhd3eb1b0_0
+pyqt=5.9.2=py35h6538335_2
+python=3.5.6=he025d50_0
+python-dateutil=2.8.2=pyhd3eb1b0_0
+pytz=2021.3=pyhd3eb1b0_0
+qt=5.9.7=vc14h73c81de_0
+setuptools=40.2.0=py35_0
+sip=4.19.8=py35h6538335_0
+six=1.16.0=pyhd3eb1b0_0
+sqlite=3.36.0=h2bbff1b_0
+tbb=2021.4.0=h59b6b97_0
+tbb4py=2018.0.5=py35he980bc4_0
+tornado=5.1.1=py35hfa6e2cd_0
+vc=14.2=h21ff451_1
+vs2015_runtime=14.27.29016=h5e58377_2
+wheel=0.37.0=pyhd3eb1b0_1
+wincertstore=0.2=py35hfebbdb8_0
+zlib=1.2.11=h62dcd97_4
